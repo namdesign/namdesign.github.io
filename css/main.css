@@ -741,7 +741,9 @@ header ul.menu li {
 header ul.menu li a {
     padding: 20px 15px 28px;
     display: block;
-    font-size: 14px;
+    font-size: 17px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
 }
 
 header ul.menu li a.pm_menu_mobile_item {
