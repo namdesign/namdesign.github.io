@@ -2862,7 +2862,7 @@ header .pm_share_button {
 .pm_post_container.page_type_fullwidth .pm_content_container .pm_post_likes_wrapper .pm_add_like_button .pm_likes_icon,
 .pm_standard_title_and_likes_container .pm_add_like_button .pm_likes_icon {
     font-size: 21px;
-    color: #2b2e2f;
+    color: #f9043e;
     position: absolute;
     top: 23px;
     left: 23px;
